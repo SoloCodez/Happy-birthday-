@@ -1,0 +1,5 @@
+public class BirthdayGreeting {
+    public static void main(String[] args) {
+        System.out.println("Happy Birthday Tega! You are now a big boy");
+    }
+}
